@@ -7,3 +7,7 @@ _Please_ **don't** *question* __this__ *__website.__*
 > This website is basically just me doing random stuff.
 
 `Thats it for the website.`
+
+Just a random image. Dont question it.
+
+![Image](https://placedata.reddit.com/data/final_place.png)
