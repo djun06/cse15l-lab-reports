@@ -12,10 +12,10 @@ _Please_ **don't** *question* __this__ *__website.__*
 
 `Here is some random text.`
 
-Here is an image.
-
-![Image](https://placedata.reddit.com/data/final_place.png)
-
 Here is a link. Dont click it.
 
 [aaa](https://djun06.github.io/cse15l-lab-reports/aaa.html)
+
+Here is an image.
+
+![Image](https://placedata.reddit.com/data/final_place.png)
