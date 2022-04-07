@@ -4,4 +4,5 @@ _Please_ **don't** *question* __this__ *__website.__*
 1) I am half asleep.
 2) I'm tired.
 ---
-`Yep thats it`
+> This website is basically just me doing random stuff.
+`Thats it for the website.`
