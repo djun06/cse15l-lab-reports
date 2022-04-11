@@ -18,3 +18,5 @@ Here, I have ran a command that lists out hidden files with extra information th
 
 ## Moving Files with scp
 
+![Image](Part5a.png)
+
