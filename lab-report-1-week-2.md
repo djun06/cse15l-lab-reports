@@ -6,7 +6,7 @@ Here, I have downloaded VS code to my windows pc. This image shows the start scr
 
 ## Remotely Connecting
 
-![Image](Part3.png)
+![Image](ssh.png)
 
 Here, I have remotely connected to the ieng6.ucsd.edu server. To do so, I ran the command `$ ssh cs15lsp22agj@ieng6.ucsd.edu`.
 
@@ -18,7 +18,7 @@ Here, I have ran a command that lists out hidden files with extra information th
 
 ## Moving Files with scp
 
-![Image](Part5a.png)
+![Image](Part5.png)
 
 Here, it can bee seen that the file `WhereAmI.java` is now in the remote server. This was done by running the command `scp WhereAmI.java cs15lsp22agj@ieng6.ucsd.edu:~/`.
 
