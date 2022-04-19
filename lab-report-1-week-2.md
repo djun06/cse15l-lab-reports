@@ -18,7 +18,7 @@ Here, I have ran a command that lists out hidden files with extra information th
 
 ## Moving Files with scp
 
-![Image](Part5.png)
+![Image](scp.png)
 
 Here, it can bee seen that the file `WhereAmI.java` is now in the remote server. This was done by running the command `scp WhereAmI.java cs15lsp22agj@ieng6.ucsd.edu:~/`.
 
