@@ -6,7 +6,7 @@
 
 ## Test File
 
-Some link
+[Extra Char Test](https://github.com/djun06/markdown-parser/blob/main/ExtraChar.md)
 
 ## Symptom Output
 
@@ -24,7 +24,7 @@ Explanation goes here
 
 ## Test File
 
-Some link
+[Image Test](https://github.com/djun06/markdown-parser/blob/main/Image.md)
 
 ## Symptom Output
 
@@ -42,7 +42,7 @@ Explanation goes here
 
 ## Test File
 
-Some link
+[Bracket & Parentheses Test](https://github.com/djun06/markdown-parser/blob/main/FarApart.md)
 
 ## Symptom Output
 
