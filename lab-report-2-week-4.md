@@ -10,7 +10,7 @@
 
 ## Symptom Output
 
-Output
+![Image](ExtraChar.png)
 
 ## Explanation
 
@@ -28,7 +28,7 @@ Explanation goes here
 
 ## Symptom Output
 
-Output
+![Image](Image.png)
 
 ## Explanation
 
@@ -46,7 +46,7 @@ Explanation goes here
 
 ## Symptom Output
 
-Output
+![Image](FarApart.png)
 
 ## Explanation
 
