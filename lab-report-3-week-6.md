@@ -2,15 +2,15 @@
 
 ## .ssh/config file
 
-Something
+File
 
 ## Log In Command
 
-Something
+![Image](sshLogIn.png)
 
 ## File Copy Command
 
-Something
+![Image](scpFileCopy.png)
 
 # Setup Github Access from ieng6
 
