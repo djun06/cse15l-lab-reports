@@ -28,11 +28,15 @@ By streamlining the ssh configuration, I can use the alias that I choose instead
 
 ## Running Git
 
-Something
+![Image](GitCommitAndPush.png)
 
 ## Commit Result
 
-Something
+[Commit](https://github.com/djun06/markdown-parser/commit/f09376f912d000e4800111ff266c39bd8bc7f520)
+
+## Description
+
+By setting up github access from the ieng6 servers, I am able to do things like commit, push, and pull to and from github repositories from the ieng6 course specific accounts. This allows me to make edits to repositories in the server accounts, make commits for the edits, and push the edits to github.
 
 # Copy whole directories with scp -r
 
