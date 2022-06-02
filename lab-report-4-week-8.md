@@ -20,15 +20,15 @@ Snippet 3 should have the output of `[https://sites.google.com/eng.ucsd.edu/cse-
 
 ## MarkdownParseTest
 
-![Image](scpFileCopy.png)
+![Image](MarkdownParserChanges.png)
 
 ## My Outputs
 
-Some Image
+![Image](MyFailedTests.png)
 
 ## Other Outputs
 
-Some Image
+![Image](OtherFailedTests.png)
 
 # Answers to the Questions
 
