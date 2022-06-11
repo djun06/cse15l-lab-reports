@@ -16,11 +16,25 @@ By using both the CommonMark demo site and the VScode preview, I found that neit
 
 ## Outputs
 
-![Image](MarkdownParserChanges.png)
+![Image](194output.png)
+
+My implementation's output is on the left, with the output of `[]`.
+
+The provided implementation's output is on the right, with the output of `[url]`.
+
+By using the CommonMark demo site, I found that the expected output should contain a link to `my_(url)`. So the expected output would be `[my_url]`.
 
 ## Bug
 
+It appears that the bug in my implementation is that my code is only able to handle links in the format of `[Link](link_url)`, which will have the output of `[link_url]`. Thus, when it is given a link in the format of `[somelink]: link_url` ... `[Link][somelink]`, it is unable to recognize it as a link and has the output of `[]` even though it should also have the outout of `[link_url]`.
+
 ## What should be changed?
+
+I believe that some code should be changed in the snippet below.
+
+![Image](194codechange.png)
+
+Something should be changed to the code here so that it is also able to check for other formatting of links in markdown.
 
 # Test 201
 
